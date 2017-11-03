@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="velocity">
+        <item>Fast</item>
+        <item>Normal</item>
+        <item>Medium</item>
+        <item>Slow</item>
+        <item>Extreme slow</item>
+    </string-array>
+</resources>
